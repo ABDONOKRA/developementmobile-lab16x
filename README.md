@@ -10,7 +10,7 @@ Ce projet démontre la maîtrise des **Services Android** en utilisant une archi
 
 *Ajoutez ici votre vidéo montrant le démarrage, le fonctionnement en arrière-plan (notification) et l'arrêt du service.*
 
-[![Regarder la vidéo](https://img.shields.io/badge/VIDÉO-DÉMO-red?style=for-the-badge&logo=youtube)](LIEN_VERS_VOTRE_VIDEO_ICI)
+[![Regarder la vidéo](https://github.com/ABDONOKRA/developementmobile-lab16x/issues/1)
 
 ---
 
