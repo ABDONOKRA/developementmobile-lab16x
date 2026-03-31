@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service Chrono</string>
+    <string name="timer_default">00:00</string>
+    <string name="btn_start_label">DÉMARRER LE SERVICE</string>
+    <string name="btn_stop_label">ARRÊTER LE SERVICE</string>
+    <string name="notif_permission_denied">Permission de notification refusée</string>
+</resources>
